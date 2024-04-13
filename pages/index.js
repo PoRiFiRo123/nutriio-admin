@@ -77,7 +77,7 @@ export default function Home() {
                     />
                   </svg>
                 </Link>
-                <Link href={'http://localhost:3000/'} target="_blank"
+                <Link href={'https://nutriio-admin.vercel.app/'} target="_blank"
                   className="inline-flex items-center justify-center gap-1.5 rounded-lg border border-orange-500 px-5 py-3 text-orange-500 transition hover:bg-orange-50 hover:text-orange-700 focus:outline-none focus:ring"
                   type="button"
                 >
@@ -207,7 +207,7 @@ export default function Home() {
         <h1
           className="mt-6 text-2xl font-bold text-gray-900 sm:text-3xl md:text-4xl"
         >
-          Welcome to my-Shop
+          Welcome to nutriio-admin
         </h1>
 
         <p className="mt-4 leading-relaxed text-gray-500 max-w-sm">
